@@ -21,9 +21,10 @@ Amaç: Satış verilerini farklı açılardan analiz edip interaktif görselleş
 
 ## 🔍 Önizleme
 *(Görselleri yükledikten sonra buraya görünecek)*  
-![KPI](screenshots/kpi.png)  
-![Segmentasyon](screenshots/segmentasyon.png)  
-![Zaman Serisi](screenshots/zaman-serisi.png)  
+![KPI](screenshots_KPI.jpeg)
+![Segmentasyon](screenshots_segmentasyon.jpeg)
+![Zaman Serisi](screenshots_zaman_serisi.jpeg)
+
 
 ## 🚀 Çalıştırma
 1. AdventureWorks2022’yi SQL Server’a yükleyin  
